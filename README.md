@@ -3,6 +3,11 @@ I wanted to manipulate the idea of ​​how a simple jwt token works and how to
 
 To use, you can compile the project and use the return token information by sending a post request from http://localhost:5000/api/token/createJwtBearer
 
+(Note : Do not forget to add them to the body(json) of your request 
+{
+    "username":"uaperk",
+    "password":"Xrjk.ck3ty2"
+})
 
 If your token time is not finished by sending a get request to address http://localhost:5000/api/weather/getWeatherForecast then simple data will return json dataset.
 
