@@ -1,0 +1,11 @@
+C:\Users\ugur.andac\Desktop\JWT_Deneme\HelloJWT\DataAccsess\bin\Debug\netstandard2.0\DataAccsess.deps.json
+C:\Users\ugur.andac\Desktop\JWT_Deneme\HelloJWT\DataAccsess\bin\Debug\netstandard2.0\DataAccsess.dll
+C:\Users\ugur.andac\Desktop\JWT_Deneme\HelloJWT\DataAccsess\obj\Debug\netstandard2.0\DataAccsess.AssemblyInfoInputs.cache
+C:\Users\ugur.andac\Desktop\JWT_Deneme\HelloJWT\DataAccsess\obj\Debug\netstandard2.0\DataAccsess.AssemblyInfo.cs
+C:\Users\ugur.andac\Desktop\JWT_Deneme\HelloJWT\DataAccsess\obj\Debug\netstandard2.0\DataAccsess.csprojAssemblyReference.cache
+C:\Users\ugur.andac\Desktop\JWT_Deneme\HelloJWT\DataAccsess\bin\Debug\netstandard2.0\DataAccsess.pdb
+C:\Users\ugur.andac\Desktop\JWT_Deneme\HelloJWT\DataAccsess\bin\Debug\netstandard2.0\Crypto.dll
+C:\Users\ugur.andac\Desktop\JWT_Deneme\HelloJWT\DataAccsess\bin\Debug\netstandard2.0\Crypto.pdb
+C:\Users\ugur.andac\Desktop\JWT_Deneme\HelloJWT\DataAccsess\obj\Debug\netstandard2.0\DataAccsess.csproj.CopyComplete
+C:\Users\ugur.andac\Desktop\JWT_Deneme\HelloJWT\DataAccsess\obj\Debug\netstandard2.0\DataAccsess.dll
+C:\Users\ugur.andac\Desktop\JWT_Deneme\HelloJWT\DataAccsess\obj\Debug\netstandard2.0\DataAccsess.pdb

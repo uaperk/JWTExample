@@ -1,0 +1,8 @@
+C:\Users\ugur.andac\Desktop\JWT_Deneme\HelloJWT\Crypto\bin\Debug\netstandard2.0\Crypto.deps.json
+C:\Users\ugur.andac\Desktop\JWT_Deneme\HelloJWT\Crypto\bin\Debug\netstandard2.0\Crypto.dll
+C:\Users\ugur.andac\Desktop\JWT_Deneme\HelloJWT\Crypto\bin\Debug\netstandard2.0\Crypto.pdb
+C:\Users\ugur.andac\Desktop\JWT_Deneme\HelloJWT\Crypto\obj\Debug\netstandard2.0\Crypto.csprojAssemblyReference.cache
+C:\Users\ugur.andac\Desktop\JWT_Deneme\HelloJWT\Crypto\obj\Debug\netstandard2.0\Crypto.AssemblyInfoInputs.cache
+C:\Users\ugur.andac\Desktop\JWT_Deneme\HelloJWT\Crypto\obj\Debug\netstandard2.0\Crypto.AssemblyInfo.cs
+C:\Users\ugur.andac\Desktop\JWT_Deneme\HelloJWT\Crypto\obj\Debug\netstandard2.0\Crypto.dll
+C:\Users\ugur.andac\Desktop\JWT_Deneme\HelloJWT\Crypto\obj\Debug\netstandard2.0\Crypto.pdb
